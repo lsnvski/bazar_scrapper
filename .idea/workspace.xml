@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb94286f-0a60-4c3b-974a-2a9a430cc31c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mobile1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZDYRYo9NVfojy7TaWdAGqaL0WO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last.edited.regexp" value="terberg-13364" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Valery\PycharmProjects\mobile1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.db_insert">
+    <configuration name="db_insert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mobile1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_insert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_listing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mobile1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_listing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_listing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="mobile1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Valery\PycharmProjects\mobile1\first_listing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_listing-v1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mobile1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_listing-v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sold" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mobile1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_db_insert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mobile1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_db_insert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.first_listing" />
+      <item itemvalue="Python.db_insert" />
+      <item itemvalue="Python.test_db_insert" />
+      <item itemvalue="Python.first_listing (1)" />
+      <item itemvalue="Python.new_listing-v1 (1)" />
+      <item itemvalue="Python.sold" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.db_insert" />
+        <item itemvalue="Python.test_db_insert" />
+        <item itemvalue="Python.first_listing (1)" />
+        <item itemvalue="Python.new_listing-v1 (1)" />
+        <item itemvalue="Python.sold" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb94286f-0a60-4c3b-974a-2a9a430cc31c" name="Default Changelist" comment="" />
+      <created>1584375123587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584375123587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="295" key="FileChooserDialogImpl" timestamp="1602596585209">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="295" key="FileChooserDialogImpl/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602596585209" />
+    <state width="1837" height="363" key="GridCell.Tab.0.bottom" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.bottom/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state width="1899" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1598936629179" />
+    <state width="1837" height="363" key="GridCell.Tab.0.center" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.center/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state width="1899" height="388" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1598936629179" />
+    <state width="1837" height="363" key="GridCell.Tab.0.left" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.left/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state width="1899" height="388" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1598936629179" />
+    <state width="1837" height="363" key="GridCell.Tab.0.right" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.0.right/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state width="1899" height="388" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1598936629179" />
+    <state width="1837" height="363" key="GridCell.Tab.1.bottom" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.bottom/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state width="1837" height="363" key="GridCell.Tab.1.center" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.center/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state width="1837" height="363" key="GridCell.Tab.1.left" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.left/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state width="1837" height="363" key="GridCell.Tab.1.right" timestamp="1602604342944">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="363" key="GridCell.Tab.1.right/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602604342944" />
+    <state x="635" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1602596493127">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="635" y="364" key="com.intellij.ide.util.TipDialog/0.0.1858.1080/-1920.2.1920.1080@0.0.1858.1080" timestamp="1602596493127" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1858.1080@0.0.1920.1080" timestamp="1598935987871" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_manager_module.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bazar.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_manager_module.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_manager_module.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_listing-v1.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new_listing-v1.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_manager_module.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/first_listing.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
